@@ -3,7 +3,7 @@
 ## Contact info
 * **Email**: ivan.dubowyk@gmail.com
 * **Discord**: Ivan Dubovyk
-* **GitHub**: [Profile] (https://github.com/ivan-dubowyk)
+* **GitHub**: [Profile](https://github.com/ivan-dubowyk "ivan-dubowyk")
 ## About me
 I'm a junior web developer with good communication and leadership skills, ability to delegate, organizational and time-management skills.
 ## Skills
@@ -13,16 +13,16 @@ I'm a junior web developer with good communication and leadership skills, abilit
 4. VS Code
 5. Jira
 ## Code example
-'''
+```
 function multiply(a, b){
  return a * b
 }
-'''
+```
 ## Experience
 JavaScript course RS School
 ## Education
 Master's Degree in Computer Science
 ## Languages
-* English - B1 [EF SET Certificate] (https://www.efset.org/cert/wFvmvE "C1 Advanced")
+* English - B1 [EF SET Certificate](https://www.efset.org/cert/wFvmvE "C1 Advanced")
 * Russian - C2
 * Ukrainian - Native

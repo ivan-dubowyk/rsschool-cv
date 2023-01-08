@@ -1,2 +1,3 @@
-https://ivan-dubowyk.github.io/rsschool-cv/cv
-https://ivan-dubowyk.github.io/rsschool-cv/
+<https://ivan-dubowyk.github.io/rsschool-cv/cv>
+<br/>
+<https://ivan-dubowyk.github.io/rsschool-cv>
